@@ -1,0 +1,10 @@
+server:
+  port: 9005
+spring:
+  servlet:
+    multipart:
+      enabled: true
+  profiles:
+    active: test
+  application:
+    name: kettle_upload

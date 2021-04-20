@@ -1,0 +1,7 @@
+com\jc\service\UploadOrcService.class
+com\jc\KettleUploadApplication.class
+com\jc\service\LoginService.class
+com\jc\service\impl\UploadOrcServiceImpl.class
+com\jc\util\HttpClientUtil.class
+com\jc\service\impl\LoginServiceImpl.class
+com\jc\job\JobExecutor.class

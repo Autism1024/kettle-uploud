@@ -1,0 +1,8 @@
+spring:
+  jccloud:
+    LoginUrl: http://192.168.1.192:8080/auth-service/oauth/token?grant_type=password #用户登陆三销接口
+    userPhoneNumber: 13621488883 #用户手机号
+    userPassword: 111111 #用户密码
+    type: 0 #类型
+    daySaleHttpUrl: http://192.168.1.192:8080/data-service/import/uploadDaySale #日销上传接口
+    daySaleFilePath: G:/JIUCHANGKEJI/project/day_sale_2021-04-12.orc #日销数据文件地址
